@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elmehdi66
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning html css javascript 
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning html css javascript jquery  
 - 📫 m.ghazri@outlook.fr
 
 <!---
