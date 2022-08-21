@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Elmehdi
-- 👀 I’m interested in web development
+- 👀 I’m a fullstack web developper
+- HTML/CSS/JS/PHP REACT/LARAVEL
 - 📫 m.ghazri@outlook.fr
 
 <!---
